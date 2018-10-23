@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2018-10-23T06:05:36" hostname="Srajans-MacBook-Pro.local" time="0.015">
+  <properties/>
+  <testcase name="testCase3quickSort" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="testCase3BubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase2quickSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase3mergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase1quickSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testCase2mergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase1mergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase5BubbleSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testCase3insertionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase1heapSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testCase2insertionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase1insertionSort" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="testCase3selectionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase2selectionSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testCaseDefault" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase6BubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase1selectionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testCase1BubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
