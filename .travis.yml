@@ -1,3 +1,3 @@
-language: java
-install: true
-script: - gradle check
+langugae: java
+install: gradle assemble
+script: gradle check
